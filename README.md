@@ -14,7 +14,7 @@
 
 Відеодемонстрація
 
-Demo: https://youtu.be/5q9Y5XFF4Q
+Demo: [https://youtu.be/5q9Y5XFF4Q](https://youtu.be/5q9Y5XFFF4Q?si=95BDhdMvy6O55XlM)
 
 Склад репозиторію
 2026_B_KKP_PZPI-23-6_Diachenko_M_M_Report.pdf — пояснювальна записка.
