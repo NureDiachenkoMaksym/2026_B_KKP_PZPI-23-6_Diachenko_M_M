@@ -16,6 +16,18 @@
 
 Demo: [https://youtu.be/5q9Y5XFF4Q](https://youtu.be/5q9Y5XFFF4Q?si=95BDhdMvy6O55XlM)
 
+Вихідний код Unity-проєкту
+
+Через обмеження розміру файлів на GitHub архів вихідного коду Unity-проєкту розміщено на Google Drive.
+
+Вихідний код: https://drive.google.com/drive/folders/1jAhI2XLvX0WuHvfWDVtiHs-rBrpKLuE5?usp=sharing
+
+Архів містить основні файли Unity-проєкту:
+
+Assets/
+Packages/
+ProjectSettings/
+
 Склад репозиторію
 2026_B_KKP_PZPI-23-6_Diachenko_M_M_Report.pdf — пояснювальна записка.
 2026_B_KKP_PZPI-23-6_Diachenko_M_M_Presentation.pptx — презентація до захисту.
